@@ -66,6 +66,6 @@ Alice wins the round and takes 2 cards.
 -- Round 2 --
 Alice plays 4♣
 Bob plays 4♠
-WAR! Alice vs Bob
+War Round! Alice vs Bob
 ...
 ```
